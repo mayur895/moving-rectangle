@@ -1,5 +1,4 @@
-console.log("hey"); 
-console.log("hey");
+
 window.addEventListener("mousemove", function (details) {
     var rect = this.document.querySelector(".rect")
 
